@@ -1,0 +1,12 @@
+/* Global styles for inventory system UI. */
+body {
+  background: #f7f8fb;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.card-metric {
+  min-height: 120px;
+}
